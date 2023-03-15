@@ -37,3 +37,6 @@ Since, the Lead II represents only inferior wall, abnormal Lead II could be inte
 > According to the article https://towardsdatascience.com/smote-fdce2f605729, a metric "Accuracy" should not be used as a metric in case of imbalanced data. By doing SMOTE to balance the dataset, it will increase more prediction of the false positives, and reduce the false negatives. This means, increase "Recall", lower "Precision".
 
 > However, in our case, the metrics show 100% of recall and precision. I think it just needs to be tested with other dataset to confirm its usability.
+
+
+RUN ON COLAB: https://colab.research.google.com/drive/1Ykg3exKfDkhYYzWlVpGvG59mvc3R02iW?usp=sharing
