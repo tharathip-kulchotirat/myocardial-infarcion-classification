@@ -12,7 +12,7 @@ Since, the Lead II represents only inferior wall, abnormal Lead II could be inte
 # Results of the models
 ![alt text](./MIresults.png)
 
-# Dicussion
+# Discussion
 > Logistic Regression, SVM, GaussianNB, Decision Tree, and XGBoost are the models that give 100% of accuracy from this dataset. Also, thier Mean Accuracies of Cross Validation are 100%.
 
 > The "Multilayer Perceptron" Classifier report shows that Mean Accuracy of Cross Validation is less than other models above. So, to avoid life-threatening damage from 0.03% which means 3 patients from 10,000 patients, this model may not be the option for the prototype, for now.
