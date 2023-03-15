@@ -23,13 +23,13 @@ Since, the Lead II represents only inferior wall, abnormal Lead II could be inte
 
 > Note, again, that these model is only use to interpret Lead II.
 
-`
+```
 ## Ratio Normal/Abnormal ##
 0.3851132686084142
  
 ## Percent of a minority class ##
 27.80373831775701  %
-`
+````
 
 
 > The dataset size ratio was 0.385 Normal/Abnormal, which is 27.8% of total size. It was a bit imbalanced, but no need to oversampling the data.
